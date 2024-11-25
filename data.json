@@ -1,0 +1,24 @@
+{
+    "Cats" : [
+    { "id": 1, "Species": "Big Cats","Name":"Tiger","size": "10 ft", "location": "Asia", "image": "tiger.jpg" },
+    { "id": 2, "Species": "Big Cats","Name":"Lion", "size": "8 ft", "location": "Africa", "image": "lion.jpg" },
+    { "id": 3, "Species": "Big Cats","Name":"Leopard", "size": "5 ft", "location": "Africa and Asia", "image": "leopard.jpg" },
+    { "id": 3, "Species": "Big Cats","Name":"Leopard", "size": "5 ft", "location": "Africa and Asia", "image": "leopard.jpg" },
+    { "id": 4, "Species": "Big Cats","Name":"Cheetah", "size": "5 ft", "location": "Africa", "image": "cheetah.jpg" },
+    { "id": 5, "Species": "Big Cats","Name":"Jaguar", "size": "5 ft", "location": "Amazon", "image": "cheetah.jpg" }
+],
+
+"Dogs" : [
+    { "id": 1, "Species": "Dog","Name":"Rotwailer","size": "2 ft", "location": "Germany", "image": "rotwailer.jpg" },
+    { "id": 2, "Species": "Dog","Name":"German Shepherd","size": "2 ft", "location": "Germany", "image": "germany.jpg" },
+    { "id": 3, "Species": "Dog","Name":"Labrodar", "size": "2 ft", "location": "UK", "image": "labrodar.jpg" },
+    { "id": 4, "Species": "Dog","Name":"Alabai", "size": "4 ft", "location": "Turkey", "image": "alabai.jpg" }
+   ],
+
+"BigFish" : [
+    { "id": 1, "Species": "Big Fish","Name":"Humpback Whale","size": "15 ft", "location": "Humpback Whale", "image": "humpbackwhale.jpg" },
+    { "id": 2, "Species": "Big Fish","Name":"Killer Whale","size": "12 ft", "location": "Atlantic Ocean", "image": "killerwhale.jpg" },
+    { "id": 3, "Species": "Big Fish","Name":"Tiger Shark", "size": "8 ft", "location": "Ocean", "image": "tigershark.jpg" },
+    { "id": 4, "Species": "Big Fist","Name":"Hammerhead Shark", "size": "8 ft", "location": "Ocean", "image": "hammerhead.jpg" }
+   ]
+}
